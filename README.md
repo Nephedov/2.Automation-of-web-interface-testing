@@ -5,7 +5,7 @@
 * <a href="https://github.com/Nephedov/AutoJavaScript_2/blob/92848bc637ea730a9834ac89eb7602d66667e86a/.prettierrc.json">.prettierrc.json</a>.
 ## Что было сделано
 * Установлен Node.js.Инициализирован npm пакет и привязан к Github.
-* Сконфигурирован .gitignore.
+* Сконфигурирован <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/a4d9c742aefebcbc42f8eccebee76f2cb583d1c0/.gitignore">.gitignore</a>.
 * Установлены плагины Eslint и Prettier. Настроены конфигурационные файлы для них.
 
 ## Задание 1. Настройка VS Code для разработки. Конфигурирование дебагера для Node.js
