@@ -1,8 +1,8 @@
 # Домашнее задание к занятию «7.2. Node.js»
 
 ## Решения
-* <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.eslintrc.json">.eslintrc.json</a>.
-* <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.prettierrc.json">.prettierrc.json</a>.
+* <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.eslintrc.json">.eslintrc.json</a> - конфигурация Eslint.
+* <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.prettierrc.json">.prettierrc.json</a> - конфигурация Prettier.
 ## Что было сделано
 * Установлен Node.js.Инициализирован npm пакет и привязан к Github.
 * Сконфигурирован <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.gitignore">.gitignore</a>.
