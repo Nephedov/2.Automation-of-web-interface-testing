@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «7.2. Node.js»
+# «Node.js»
 
 ## Решения
 * <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.eslintrc.json">.eslintrc.json</a> - конфигурация Eslint.
