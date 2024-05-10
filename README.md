@@ -8,6 +8,10 @@
 * Сконфигурирован <a href="https://github.com/Nephedov/2.Automation-of-web-interface-testing/blob/main/.gitignore">.gitignore</a>.
 * Установлены плагины Eslint и Prettier. Настроены конфигурационные файлы для них.
 
+---
+---
+
+
 ## Описание Задания 1. Настройка VS Code для разработки. Конфигурирование дебагера для Node.js
 
 ### Шаг 1.
